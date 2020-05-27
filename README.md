@@ -1,45 +1,5 @@
 ![Laravel best practices](/images/logo-english.png?raw=true)
 
-Translations:
-
-[Nederlands](https://github.com/Protoqol/Beste-Laravel-Praktijken) (by [Protoqol](https://github.com/Protoqol))
-
-[한국어](https://github.com/xotrs/laravel-best-practices) (by [cherrypick](https://github.com/xotrs))
-
-[日本語](japanese.md) (by [2bo](https://github.com/2bo))
-
-[漢語](chinese.md) (by [xiaoyi](https://github.com/Shiloh520))
-
-[中文維基百科](traditional-chinese.md) (by [woeichern](https://github.com/woeichern))
-
-[ภาษาไทย](thai.md) (by [kongvut sangkla](https://github.com/kongvut))
-
-[বাংলা](bangla.md) (by [Anowar Hossain](https://github.com/AnowarCST))
-
-[فارسی](persian.md) (by [amirhossein baghaie](https://github.com/amirbagh75))
-
-[Português](https://github.com/jonaselan/laravel-best-practices) (by [jonaselan](https://github.com/jonaselan))
-
-[Українська](ukrainian.md) (by [Tenevyk](https://github.com/tenevyk))
-
-[Русский](russian.md)
-
-[Tiếng Việt](https://chungnguyen.xyz/posts/code-laravel-lam-sao-cho-chuan) (by [Chung Nguyễn](https://github.com/nguyentranchung))
-
-[Español](spanish.md) (by [César Escudero](https://github.com/cedaesca))
-
-[Français](french.md) (by [Mikayil S.](https://github.com/mikayilsrt))
-
-[Polski](https://github.com/maciejjeziorski/laravel-best-practices-pl) (by [Maciej Jeziorski](https://github.com/maciejjeziorski))
-
-[Türkçe](turkish.md) (by [Burak](https://github.com/ikidnapmyself))
-
-[Deutsch](german.md) (by [Sujal Patel](https://github.com/sujalpatel2209))
-
-[Italiana](italian.md) (by [Sujal Patel](https://github.com/sujalpatel2209))
-
-[Azərbaycanca](https://github.com/Maharramoff/laravel-best-practices-az) (by [Maharramoff](https://github.com/Maharramoff))
-
 It's not a Laravel adaptation of SOLID principles, patterns etc. Here you'll find the best practices which are usually ignored in real life Laravel projects.
 
 ## Contents
